@@ -62,7 +62,7 @@ To get a local copy up and running, follow these steps:
 To get a local copy up and running, follow these steps:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/Caren-Koroeny/decode-morse.git`
+  - `https://github.com/Caren-Koroeny/Enumarable.git`
 - Run the code with ruby
 
 ### Prerequisites
@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - ``
+  - `https://github.com/Caren-Koroeny/Enumarable.git`
 
 ## 👥 Authors <a name="authors"></a>
 
